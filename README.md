@@ -24,4 +24,7 @@ Implement the restful api service:
 * Post - save a favorite NBA player -> http://localhost:8080/addPlayer  player
 
 
-<img src = "images/mainScreen.png" width="400">  <img src = "images/semesterScreen.png" width="400">
+<img src = "images/mainScreen.png" width="400">  <img src = "images/favorite window - before.png" width="400">
+<img src = "images/mainScreen.png" width="400">  <img src = "images/search window.png" width="400">
+<img src = "images/mainScreen.png" width="400">  <img src = "images/favorite window - after save.png" width="400">
+
