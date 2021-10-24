@@ -23,6 +23,5 @@ Implement the restful api service:
 * Get the list of the search -> http://localhost:8080/allPlayer?firstName=$$$&lastName=&&&
 * Post - save a favorite NBA player -> http://localhost:8080/addPlayer  player
 
-![צילום מסך 2021-10-24 173953](https://user-ima![צילום מסך 2021-10-24 174128](https://user-images.githubusercontent.com/51058445/138599860-52c3a3b9-b2aa-4072-be04-8f9dc2e7fe49.png)
-ges.githubusercontent.com/51058445/138599857-4c633af0-2aca-4040-9b36-2203b965ac2b.png)
-![צילום מסך 2021-10-24 174102](https://user-images.githubusercontent.com/51058445/138599859-426055f2-787d-42ea-85c0-e875ec999677.png)
+
+<img src = "images/mainScreen.png" width="400">  <img src = "images/semesterScreen.png" width="400">
