@@ -5,7 +5,7 @@ The frontend writeen in ReactJS and the backend written in Java spring boot.
 
 import the project as a mavan project.
 To start the backend you need to run the class NbaPlayersApplication.
-Run the react-frontend , and it will open yow the browser.
+Run the react-frontend , and it will open yow the browser. -> run the comand line in the terminal : npm start
 
 FROUNTEND:
 Component:
